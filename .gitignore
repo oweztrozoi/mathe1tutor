@@ -1,0 +1,5 @@
+# Keine Unterlagen hochladen
+skill/mathe1tutor/references/unterlagen/*
+!skill/mathe1tutor/references/unterlagen/README.md
+*.pdf
+__pycache__/

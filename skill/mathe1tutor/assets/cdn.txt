@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/oweztrozoi/mathe1tutor@main/skill/mathe1tutor/assets/dist/ma1-chat.js
